@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSort", "HeapSort\HeapSort.csproj", "{2F755AC4-2774-45A7-AD38-6BF48E61829E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{77F9BA98-875B-4E1A-AF5E-60190CF00A9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{2EB5CA40-8411-48C4-AD38-C70B4EFB0627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapSortSpeedTest", "HeapSortSpeedTest\HeapSortSpeedTest.csproj", "{152AB21B-C7EB-4BAD-8704-EE030420998A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSortSpeedTest", "InsertionSortSpeedTest\InsertionSortSpeedTest.csproj", "{B36EF9BC-938C-427D-939C-83FE7D1F5BD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortSpeedTest", "QuickSortSpeedTest\QuickSortSpeedTest.csproj", "{72ED8EAF-B6B8-4C6B-B2C1-342852CA6826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedTestComparison", "SpeedTest\SpeedTestComparison.csproj", "{F3E3CC57-6CED-448F-8400-060C76AD25B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F755AC4-2774-45A7-AD38-6BF48E61829E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F755AC4-2774-45A7-AD38-6BF48E61829E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F755AC4-2774-45A7-AD38-6BF48E61829E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F755AC4-2774-45A7-AD38-6BF48E61829E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F9BA98-875B-4E1A-AF5E-60190CF00A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F9BA98-875B-4E1A-AF5E-60190CF00A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F9BA98-875B-4E1A-AF5E-60190CF00A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F9BA98-875B-4E1A-AF5E-60190CF00A9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB5CA40-8411-48C4-AD38-C70B4EFB0627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB5CA40-8411-48C4-AD38-C70B4EFB0627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB5CA40-8411-48C4-AD38-C70B4EFB0627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB5CA40-8411-48C4-AD38-C70B4EFB0627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152AB21B-C7EB-4BAD-8704-EE030420998A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152AB21B-C7EB-4BAD-8704-EE030420998A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152AB21B-C7EB-4BAD-8704-EE030420998A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152AB21B-C7EB-4BAD-8704-EE030420998A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36EF9BC-938C-427D-939C-83FE7D1F5BD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36EF9BC-938C-427D-939C-83FE7D1F5BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36EF9BC-938C-427D-939C-83FE7D1F5BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36EF9BC-938C-427D-939C-83FE7D1F5BD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ED8EAF-B6B8-4C6B-B2C1-342852CA6826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ED8EAF-B6B8-4C6B-B2C1-342852CA6826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ED8EAF-B6B8-4C6B-B2C1-342852CA6826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ED8EAF-B6B8-4C6B-B2C1-342852CA6826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E3CC57-6CED-448F-8400-060C76AD25B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E3CC57-6CED-448F-8400-060C76AD25B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E3CC57-6CED-448F-8400-060C76AD25B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3E3CC57-6CED-448F-8400-060C76AD25B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C6D47D5-C5B0-49A2-89F8-3E038CFF459C}
+	EndGlobalSection
+EndGlobal
